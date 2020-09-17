@@ -34,7 +34,7 @@ Mogo focuses on the younger Canadian millennial demographic. The app offers a us
 
 The fintech industry is disrupting the traditional financial banking and services industry and will play a vital role in the economic development of Canada. Technological innovation, new lending and payment solutions, digitalized economies and expanding market demands have been key drivers behind the rapid growth of the FinTech industry in Canada.
 
-Mogo is a fintech leader in personal finance and mobile banking services. Mogo leverages technology to assist customers with lending needs and manage their financial health. Mogo utilizes a combination of 45 different technology products and services including HTML5, Google Analytics, and jQuery, Viewport Meta, iPhone/ Mobile Compatible according to G2 Stack. Mogo has registered 14 trademarks with the most popular class being 'Insurance; financial affairs', according to IPqwery.  Their API is best-in-class for and their interactive live chat feature with mortgage specialists provides quick responses to customer inquiries. 
+Mogo is a fintech leader in the next generation personal finance and mobile banking services domain. Mogo leverages technology to assist customers with lending needs and manage their financial health. Mogo utilizes a combination of 45 different technology products and services including HTML5, Google Analytics, and jQuery, Viewport Meta, iPhone/ Mobile Compatible according to G2 Stack. Mogo has registered 14 trademarks with the most popular class being 'Insurance; financial affairs', according to IPqwery.  Their API is best-in-class and their interactive live chat feature with mortgage specialists provides quick responses to customer inquiries. 
 
 ## Competitors 
 
