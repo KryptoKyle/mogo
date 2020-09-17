@@ -14,8 +14,8 @@ The company was founded in 2003 by David Feller. David Feller currently serves a
 
 Core Value Proposition
 
-*Centralized Platform: The Mogo platform delivers a best-in-class digital experience, with best-in-class financial products all through one account.
-*User Experience: Mogo emphasizes a simple and accessible interface. Account dashboards for smartphones, tablets and computers are designed to encourage and reward users for maintaining good financial health. 
+* Centralized Platform: The Mogo platform delivers a best-in-class digital experience, with best-in-class financial products all through one account.
+* User Experience: Mogo emphasizes a simple and accessible interface. Account dashboards for smartphones, tablets and computers are designed to encourage and reward users for maintaining good financial health. 
 
 Target Market
 
@@ -37,9 +37,9 @@ Mogo is a fintech leader in personal finance and mobile banking services. Mogo l
 
 ## Competitors 
 
-Ratehub – provides comparisons between mortgage rates, credit cards, deposit rates and insurance offered by financial institutions to give Canadians personalized financial recommendations.
-Savvyy – is a Canadian technology company building next-gen infrastructure for the mortgage lending industry. They are building a scalable, automated, configurable and AI ready mortgage platform. 
-Mylo - is the saving and investing app that allows Canadians to achieve financial goals by rounding up purchases and investing spare change and utilizes AI to provide personalized recommendations to make informed financial choices.
+* Ratehub – provides comparisons between mortgage rates, credit cards, deposit rates and insurance offered by financial institutions to give Canadians personalized financial recommendations.
+* Savvyy – is a Canadian technology company building next-gen infrastructure for the mortgage lending industry. They are building a scalable, automated, configurable and AI ready mortgage platform. 
+* Mylo - is the saving and investing app that allows Canadians to achieve financial goals by rounding up purchases and investing spare change and utilizes AI to provide personalized recommendations to make informed financial choices.
 
 ## Results
 
