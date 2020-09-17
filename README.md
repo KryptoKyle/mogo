@@ -6,7 +6,7 @@ Banking & Personal Finance | Vancouver, BC | Founded: 2003 | Employees: 278 | mo
 
 Mogo Finance Technology Inc. (Mogo) is a Vancouver-based financial technology company. Their mission is to provide millennials with a variety of financial instruments to manage and take control of their financial health. The Mogo app is a one stop shop that offers personal loans, mortgages, prepaid Visa cards, access to buy and trade Bitcoin, track spending and credit score monitoring. With more than one million members Mogo is becoming a go-to financial app for the next generation of Canadians. 
 
-History
+## Origin
 
 The company was founded in 2003 by David Feller. David Feller currently serves as the Chief Executive Officer and Chair of the Board of Directors. The inspiration to help young Canadians pay off debt at lower rates came from David’s own struggles to pay down credit debt while in College. Mogo has raised over $200 millions in funding over 5 rounds. In 2014 Mogo’s venture round raised $635,000 and later in the year the series B round raised $1.5 million. In June 2015, Mogo completed its IPO on the Toronto Stock Exchange, raising over $50 million.   Key investors include Difference Capital and Fortress Investment Group LLC. 
 
