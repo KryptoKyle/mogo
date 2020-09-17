@@ -1,4 +1,3 @@
-# MOGO
 # MOGO: FinTech Case Study
 
 Banking & Personal Finance | Vancouver, BC | Founded: 2003 | Employees: 278 | mogo.ca
