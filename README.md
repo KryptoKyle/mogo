@@ -17,9 +17,7 @@ Core Value Proposition
 * Centralized Platform: The Mogo platform delivers a best-in-class digital experience, with best-in-class financial products all through one account.
 * User Experience: Mogo emphasizes a simple and accessible interface. Account dashboards for smartphones, tablets and computers are designed to encourage and reward users for maintaining good financial health. 
 
-Target Market
-
-Mogo focuses on the younger Canadian millennial demographic. The app offers a user-friendly dashboard and interactive way for users to navigate and manage personal finances transparently. Mogo offers the following products under one account:
+ Mogo offers the following products under one account:
 
 1.	Personal Loans: fixed-term loans up to $35,000 with an automated loan process
 2.	MogoMortgage: a simplified digital mortgage application and onboarding experience
@@ -28,6 +26,9 @@ Mogo focuses on the younger Canadian millennial demographic. The app offers a us
 5.	MogoCard: no-fee digital spending account linked to a prepaid Visa card, with spending tracking and budgeting functions
 6.	Credit Score: free monthly credit score monitoring by Equifax
 
+Target Market
+
+Mogo focuses on the younger Canadian millennial demographic. The app offers a user-friendly dashboard and interactive way for users to navigate and manage personal finances transparently.
 
 ## Landscape
 
