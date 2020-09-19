@@ -58,7 +58,7 @@ As of June 30th 2020, Mogo has reported a member base of over 1,000,000 users, a
 
 ## Recommendations
 
-My recommendation for Mogo would be to  expand their MogoCrypto offerings and capabilities. Mogo currently offers users the ability to buy and trade Bitcoin only. Offering other cryptocurrencies such as Ethereum, Chainlink or other top 10-25 coins could attract more users to the app. Mogo should also develop a payment solution for MogoCrypto using the customers cryptocurrencies to pay off  loans or mortgages that are with the Mogo platform. 
+My recommendation for Mogo would be to  expand their MogoCrypto offerings and capabilities. Mogo currently offers users the ability to buy and sell Bitcoin only. Offering other cryptocurrencies such as Ethereum, Chainlink, Polkadot and other top 10-25 coins could attract more users to the app. Mogo should also develop a payment solution for MogoCrypto using the customers cryptocurrencies to pay off  loans or mortgages that are with the Mogo platform. As cryptocurrencies grow in popularity, Canadians will want to hold their cryptocurrencies with a trusted entity. If Mogo can continue to grow their brand awareness and position themselves as the most trusted financial platform for buying and holding cryptocurrencies they should be well positioned to take market share in the Canadian cryptocurrency space.  
 
 ## Reference 
 [1] Crunchbase, Mogo Finance - Funding. https://www.crunchbase.com/organization/mogo-finance-technology/company_financials#funding_rounds
