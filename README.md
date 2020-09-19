@@ -29,7 +29,7 @@ The company was founded in 2003 by David Feller. David currently serves as the C
 
 #### Target Market
 
-Mogo focuses on the younger Canadian millennial demographic. The app offers a user-friendly dashboard and interactive way for users to navigate and manage personal finances transparently.
+Mogo focuses on the younger Canadian millennial demographic. The app offers a user-friendly dashboard and interactive way for users to navigate and manage personal finances transparently. Users can download the app and set up an account in a matter of a few minutes. The products offered on the app provide recommendations in a transparnt way that users can appreciate.  
 
 ## Landscape
 
@@ -58,7 +58,7 @@ As of June 30th 2020, Mogo has reported a member base of over 1,000,000 users, a
 
 ## Recommendations
 
-I foresee future growth in the cryptocurrency market and my recommendation for Mogo would be to  expand their MogoCrypto offerings and capabilities. Mogo currently offers users the ability to buy and trade Bitcoin only. Offering other cryptocurrencies such as Ethereum, Chainlink or other top 10 coins could attract more users to the app. Mogo should also develop a payment solution for MogoCrypto using the customers cryptocurrencies to pay off  loans or mortgages that are with the Mogo platform. 
+My recommendation for Mogo would be to  expand their MogoCrypto offerings and capabilities. Mogo currently offers users the ability to buy and trade Bitcoin only. Offering other cryptocurrencies such as Ethereum, Chainlink or other top 10-25 coins could attract more users to the app. Mogo should also develop a payment solution for MogoCrypto using the customers cryptocurrencies to pay off  loans or mortgages that are with the Mogo platform. 
 
 ## Reference 
 [1] Crunchbase, Mogo Finance - Funding. https://www.crunchbase.com/organization/mogo-finance-technology/company_financials#funding_rounds
