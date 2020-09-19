@@ -27,7 +27,7 @@ The company was founded in 2003 by David Feller. David currently serves as the C
 5.	MogoCard: no-fee digital spending account linked to a prepaid Visa card, with spending tracking and budgeting functions
 6.	Credit Score: free monthly credit score monitoring by Equifax [2] 
 
-Target Market
+#### Target Market
 
 Mogo focuses on the younger Canadian millennial demographic. The app offers a user-friendly dashboard and interactive way for users to navigate and manage personal finances transparently.
 
@@ -47,10 +47,10 @@ Mogo is a fintech leader in the next generation personal finance and mobile bank
 
 In May 2017 Mogo won the Canadian Mortgage Award for Best Use of Mobile Technology. David Feller, Founder and CEO said "It's great to receive recognition for what we believe is the best mortgage experience in Canada. As consumers continue to move to a more convenient digital mortgage experience, Mogo is clearly positioned as one of the industry's innovators and leaders." [4]  Mogo has a 4.3/5 star rating and ranks #34 in Financial Apps on the Apple App Store and was featured in Appple’s 2019 “Apps We Love”. 
 
-Members
+#### Members
 As of June 30th 2020, Mogo has reported a member base of over 1,000,000 users, an annual increase of approximately 20% and is seeing continued growth throughout 2020. The growth was driven by an overall increase in brand awareness as well as enhancements to the existing products and value propositions. The company plans to continue its strong user base growth by ramping up marketing efforts in the coming months.
 
-Financials
+#### Financials
 
 
 ## Recommendations
