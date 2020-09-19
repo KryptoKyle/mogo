@@ -50,7 +50,10 @@ In May 2017 Mogo won the Canadian Mortgage Award for Best Use of Mobile Technolo
 #### Members
 As of June 30th 2020, Mogo has reported a member base of over 1,000,000 users, an annual increase of approximately 20% and is seeing continued growth throughout 2020. The growth was driven by an overall increase in brand awareness as well as enhancements to the existing products and value propositions. The company plans to continue its strong user base growth by ramping up marketing efforts in the coming months.
 
-#### Financials
+#### Q2 2020 Financial Highlights
+* Core revenue                          $10.6 million
+* Adjusted EBITDA                       $5.2 million
+* Adjusted cash net income (loss)       $2.6 million
 
 
 ## Recommendations
@@ -58,10 +61,10 @@ As of June 30th 2020, Mogo has reported a member base of over 1,000,000 users, a
 I foresee future growth in the cryptocurrency market and my recommendation for Mogo would be to  expand their MogoCrypto offerings and capabilities. Mogo currently offers users the ability to buy and trade Bitcoin only. Offering other cryptocurrencies such as Ethereum, Chainlink or other top 10 coins could attract more users to the app. Mogo should also develop a payment solution for MogoCrypto using the customers cryptocurrencies to pay off  loans or mortgages that are with the Mogo platform. 
 
 ## Reference 
-[1] Crunchbase, Mogo Finance. https://www.crunchbase.com/organization/mogo-finance-technology/company_financials#funding_rounds
+[1] Crunchbase, Mogo Finance - Funding. https://www.crunchbase.com/organization/mogo-finance-technology/company_financials#funding_rounds
 
 [2] Mogo,Mogo Brings its Digital Financial Products to More Canadians, Press Release. https://investors.mogo.ca/press-releases/mogo-brings-its-digital-financial-products-to-more-canadians
 
-[3] 
+[3] Crunchbase, Mogo Finance - Technology https://www.crunchbase.com/organization/mogo-finance-technology/technology 
 
 [4] Mogo, MogoMortgage Wins The Canadian Mortgage Award for Best Use of Mobile Technology. https://blog.mogo.ca/mogomortgage-wins-the-canadian-mortgage-award/
