@@ -1,8 +1,7 @@
 # MOGO: The Next Generation Financial App for Canadian Millenials
-Author: Kyle Jackman
-
 Banking & Personal Finance | Vancouver, BC | Founded: 2003 | Employees: 278 | mogo.ca
 
+Author: Kyle Jackman
 ## Overview 
 
 Mogo Finance Technology Inc. (Mogo) is a Vancouver-based financial technology company. Their mission is to provide Canadian millennials with a variety of financial instruments to manage and take control of their financial health. The Mogo app offers personal loans, mortgages, prepaid Visa cards, access to buy and trade Bitcoin, track spending and credit score monitoring. With more than one million members Mogo is becoming a go-to financial app for the next generation of Canadians. 
