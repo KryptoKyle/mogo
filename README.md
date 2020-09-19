@@ -53,5 +53,6 @@ I foresee future growth in the cryptocurrency market and my recommendation for M
 
 ## Reference 
 [1] Crunchbase, Mogo Finance. https://www.crunchbase.com/organization/mogo-finance-technology/company_financials#funding_rounds
+
 [2] Mogo,Mogo Brings its Digital Financial Products to More Canadians, Press Release. https://investors.mogo.ca/press-releases/mogo-brings-its-digital-financial-products-to-more-canadians
 
