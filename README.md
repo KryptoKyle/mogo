@@ -1,4 +1,5 @@
 # MOGO: The Next Generation Financial App for Canadian Millenials
+Author: Kyle Jackman
 
 Banking & Personal Finance | Vancouver, BC | Founded: 2003 | Employees: 278 | mogo.ca
 
