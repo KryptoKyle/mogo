@@ -39,7 +39,7 @@ Mogo is a fintech leader in the next generation personal finance and mobile bank
 
 ## Competitors 
 
-* [Ratehub] (https://www.ratehub.ca/) – provides comparisons between mortgage rates, credit cards, deposit rates and insurance offered by financial institutions to give Canadians personalized financial recommendations.
+* Ratehub (https://www.ratehub.ca/) – provides comparisons between mortgage rates, credit cards, deposit rates and insurance offered by financial institutions to give Canadians personalized financial recommendations.
 * Savvyy – is a Canadian technology company building next-gen infrastructure for the mortgage lending industry. They are building a scalable, automated, configurable and AI ready mortgage platform. 
 * Mylo - is the saving and investing app that allows Canadians to achieve financial goals by rounding up purchases and investing spare change and utilizes AI to provide personalized recommendations to make informed financial choices.
 
