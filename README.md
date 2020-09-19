@@ -50,3 +50,7 @@ In May 2017 Mogo won the Canadian Mortgage Award for Best Use of Mobile Technolo
 ## Recommendations
 
 I foresee future growth in the cryptocurrency market and my recommendation for Mogo would be to  expand their MogoCrypto offerings and capabilities. Mogo currently offers users the ability to buy and trade Bitcoin only. Offering other cryptocurrencies such as Ethereum, Chainlink or other top 10 coins could attract more users to the app. Mogo should also develop a payment solution for MogoCrypto using the customers cryptocurrencies to pay off  loans or mortgages that are with the Mogo platform. 
+
+## Reference 
+[1] Crunchbase, Mogo Finance https://www.crunchbase.com/organization/mogo-finance-technology/technology
+
