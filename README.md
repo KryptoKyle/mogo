@@ -53,7 +53,7 @@ As of June 30th 2020, Mogo has reported a member base of over 1,000,000 users, a
 #### Q2 2020 Financial Highlights
 * Core revenue                          $10.6 million
 * Adjusted EBITDA                       $5.2 million
-* Adjusted cash net income (loss)       $2.6 million
+* Adjusted cash net income (loss)       $2.6 million [5]
 
 
 ## Recommendations
@@ -68,3 +68,5 @@ I foresee future growth in the cryptocurrency market and my recommendation for M
 [3] Crunchbase, Mogo Finance - Technology https://www.crunchbase.com/organization/mogo-finance-technology/technology 
 
 [4] Mogo, MogoMortgage Wins The Canadian Mortgage Award for Best Use of Mobile Technology. https://blog.mogo.ca/mogomortgage-wins-the-canadian-mortgage-award/
+
+[5] Mogo Inc Management's Discussion and Analysis for Quarter Ended June 30, 2020. https://assets.ctfassets.net/20580h26mi6y/2ITiYNKP5is6yhmf0swzX5/dec162244fbcd41f98ece933ddd5106a/Q2_2020_MD_A.pdf
